@@ -79,7 +79,7 @@ Note: Ensure that your SQL Server allows remote connections, and the JDBC driver
 5. Follow the command line prompts to interact with the banking system.
 
 
-##Contributing
+## Contributing
 
 Feel free to contribute by opening issues or submitting pull requests. For major changes, please open an issue first to discuss the proposed changes.
 
